@@ -3,7 +3,7 @@ x86 disassembler meeting requirements for graduate school assignment in Reverse 
 
 ## Usage
 ```bash
-> .\PS1.exe -i <input_file>
+> .\PS1.exe -i [input_file]
 ```
 
 <input_file> can be any file, but will be assumed to be binary representation
